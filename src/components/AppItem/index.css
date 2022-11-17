@@ -1,0 +1,21 @@
+/* Write your CSS here */
+/* .logo-container {
+  background-color: transparent;
+  border-radius: 16px;
+  border: 1px solid red;
+} */
+.logo {
+  width: 40px;
+  height: 40px;
+}
+.list-item-2 {
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #ffffff;
+  margin: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+}
